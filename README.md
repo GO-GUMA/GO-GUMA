@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://postfiles.pstatic.net/MjAyMTA1MTFfMjMy/MDAxNjIwNjY4OTk0MjM2.c5E7Km1r-qfPADYRZUa0waOGU9Ehui6LEHuufLQSVTkg.aGfrzqesuf2wc7ErUWYtZEN4ditDVK7nYPyk2ojB2JYg.PNG.gangsu1813/MainIMG.png?type=w966">
+  <img src="https://github.com/GO-GUMA/GO-GUMA/blob/main/MainIMG.png?raw=true">
 </p>
 
 <h3 align="center">Coding</h3>
